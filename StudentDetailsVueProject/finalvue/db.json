@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "name": "sudhan",
+      "id": "33",
+      "tamil": 87,
+      "eng": 55,
+      "maths": 90,
+      "sci": 77,
+      "soc": 88,
+      "total": 397
+    },
+    {
+      "name": "asz",
+      "id": "12",
+      "tamil": 90,
+      "eng": 90,
+      "maths": 90,
+      "sci": 90,
+      "soc": 90,
+      "total": 450
+    },
+    {
+      "name": "kamal",
+      "id": "1",
+      "tamil": 100,
+      "eng": 78,
+      "maths": 87,
+      "sci": 97,
+      "soc": 78,
+      "total": 440
+    },
+    {
+      "name": "kamal",
+      "id": "2",
+      "tamil": 67,
+      "eng": 78,
+      "maths": 89,
+      "sci": 76,
+      "soc": 67,
+      "total": 377
+    },
+    {
+      "name": "sd",
+      "id": "56",
+      "tamil": 93,
+      "eng": 100,
+      "maths": 99,
+      "sci": 100,
+      "soc": 99,
+      "total": 491
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
